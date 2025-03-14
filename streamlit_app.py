@@ -1,3 +1,5 @@
+pip install torch torchvision
+
 import streamlit as st
 import os
 import torch
